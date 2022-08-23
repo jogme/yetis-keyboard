@@ -1,0 +1,6434 @@
+1525888822174294
+Audio_Module
+Reverb_BTDR-1H
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
+0
+7
+7
+Audio_Module
+Reverb_BTDR-1V
+Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
+audio belton reverb
+0
+7
+7
+Button_Switch_THT
+KSA_Tactile_SPST
+KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SWITCH SMD KSA SW
+0
+5
+5
+Button_Switch_THT
+Nidec_Copal_SH-7010C
+4-bit rotary coded switch, through-hole, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+5
+Button_Switch_THT
+Push_E-Switch_KS01Q01
+E-Switch KS01Q01 http://spec_sheets.e-switch.com/specs/29-KS01Q01.pdf
+Push Button
+0
+4
+4
+Button_Switch_THT
+SW_CW_GPTS203211B
+SPST Off-On Pushbutton, 1A, 30V, CW Industries P/N GPTS203211B, http://switches-connectors-custom.cwind.com/Asset/GPTS203211BR2.pdf
+SPST button switch Off-On
+0
+2
+2
+Button_Switch_THT
+SW_CuK_JS202011AQN_DPDT_Angled
+CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+switch DPDT
+0
+6
+6
+Button_Switch_THT
+SW_CuK_JS202011CQN_DPDT_Straight
+CuK sub miniature slide switch, JS series, DPDT, right angle, http://www.ckswitches.com/media/1422/js.pdf
+switch DPDT
+0
+6
+6
+Button_Switch_THT
+SW_CuK_OS102011MA1QN1_SPDT_Angled
+CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+Button_Switch_THT
+SW_DIP_SPSTx01_Piano_10.8x4.1mm_W7.62mm_P2.54mm
+1x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x4.1mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+2
+2
+Button_Switch_THT
+SW_DIP_SPSTx01_Slide_6.7x4.1mm_W7.62mm_P2.54mm_LowProfile
+1x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x4.1mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+2
+2
+Button_Switch_THT
+SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm
+1x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x4.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+2
+2
+Button_Switch_THT
+SW_DIP_SPSTx02_Piano_10.8x6.64mm_W7.62mm_P2.54mm
+2x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x6.64mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx02_Piano_CTS_Series194-2MSTN_W7.62mm_P2.54mm
+2x-dip-switch SPST CTS_Series194-2MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx02_Slide_6.7x6.64mm_W7.62mm_P2.54mm_LowProfile
+2x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x6.64mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx02_Slide_9.78x7.26mm_W7.62mm_P2.54mm
+2x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x7.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+4
+4
+Button_Switch_THT
+SW_DIP_SPSTx03_Piano_10.8x9.18mm_W7.62mm_P2.54mm
+3x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x9.18mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx03_Piano_CTS_Series194-3MSTN_W7.62mm_P2.54mm
+3x-dip-switch SPST CTS_Series194-3MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx03_Slide_6.7x9.18mm_W7.62mm_P2.54mm_LowProfile
+3x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x9.18mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx03_Slide_9.78x9.8mm_W7.62mm_P2.54mm
+3x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x9.8mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+6
+6
+Button_Switch_THT
+SW_DIP_SPSTx04_Piano_10.8x11.72mm_W7.62mm_P2.54mm
+4x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x11.72mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx04_Piano_CTS_Series194-4MSTN_W7.62mm_P2.54mm
+4x-dip-switch SPST CTS_Series194-4MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx04_Slide_6.7x11.72mm_W7.62mm_P2.54mm_LowProfile
+4x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x11.72mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx04_Slide_9.78x12.34mm_W7.62mm_P2.54mm
+4x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x12.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+8
+8
+Button_Switch_THT
+SW_DIP_SPSTx05_Piano_10.8x14.26mm_W7.62mm_P2.54mm
+5x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x14.26mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx05_Piano_CTS_Series194-5MSTN_W7.62mm_P2.54mm
+5x-dip-switch SPST CTS_Series194-5MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx05_Slide_6.7x14.26mm_W7.62mm_P2.54mm_LowProfile
+5x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x14.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx05_Slide_9.78x14.88mm_W7.62mm_P2.54mm
+5x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x14.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+10
+10
+Button_Switch_THT
+SW_DIP_SPSTx06_Piano_10.8x16.8mm_W7.62mm_P2.54mm
+6x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x16.8mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx06_Piano_CTS_Series194-6MSTN_W7.62mm_P2.54mm
+6x-dip-switch SPST CTS_Series194-6MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx06_Slide_6.7x16.8mm_W7.62mm_P2.54mm_LowProfile
+6x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x16.8mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx06_Slide_9.78x17.42mm_W7.62mm_P2.54mm
+6x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x17.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+12
+12
+Button_Switch_THT
+SW_DIP_SPSTx07_Piano_10.8x19.34mm_W7.62mm_P2.54mm
+7x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x19.34mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx07_Piano_CTS_Series194-7MSTN_W7.62mm_P2.54mm
+7x-dip-switch SPST CTS_Series194-7MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx07_Slide_6.7x19.34mm_W7.62mm_P2.54mm_LowProfile
+7x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x19.34mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx07_Slide_9.78x19.96mm_W7.62mm_P2.54mm
+7x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x19.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+14
+14
+Button_Switch_THT
+SW_DIP_SPSTx08_Piano_10.8x21.88mm_W7.62mm_P2.54mm
+8x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x21.88mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx08_Piano_CTS_Series194-8MSTN_W7.62mm_P2.54mm
+8x-dip-switch SPST CTS_Series194-8MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx08_Slide_6.7x21.88mm_W7.62mm_P2.54mm_LowProfile
+8x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x21.88mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx08_Slide_9.78x22.5mm_W7.62mm_P2.54mm
+8x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x22.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+16
+16
+Button_Switch_THT
+SW_DIP_SPSTx09_Piano_10.8x24.42mm_W7.62mm_P2.54mm
+9x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x24.42mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx09_Piano_CTS_Series194-9MSTN_W7.62mm_P2.54mm
+9x-dip-switch SPST CTS_Series194-9MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx09_Slide_6.7x24.42mm_W7.62mm_P2.54mm_LowProfile
+9x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x24.42mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx09_Slide_9.78x25.04mm_W7.62mm_P2.54mm
+9x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x25.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+18
+18
+Button_Switch_THT
+SW_DIP_SPSTx10_Piano_10.8x26.96mm_W7.62mm_P2.54mm
+10x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x26.96mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx10_Piano_CTS_Series194-10MSTN_W7.62mm_P2.54mm
+10x-dip-switch SPST CTS_Series194-10MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx10_Slide_6.7x26.96mm_W7.62mm_P2.54mm_LowProfile
+10x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x26.96mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx10_Slide_9.78x27.58mm_W7.62mm_P2.54mm
+10x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x27.58mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+20
+20
+Button_Switch_THT
+SW_DIP_SPSTx11_Piano_10.8x29.5mm_W7.62mm_P2.54mm
+11x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x29.5mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx11_Piano_CTS_Series194-11MSTN_W7.62mm_P2.54mm
+11x-dip-switch SPST CTS_Series194-11MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx11_Slide_6.7x29.5mm_W7.62mm_P2.54mm_LowProfile
+11x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x29.5mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx11_Slide_9.78x30.12mm_W7.62mm_P2.54mm
+11x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x30.12mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+22
+22
+Button_Switch_THT
+SW_DIP_SPSTx12_Piano_10.8x32.04mm_W7.62mm_P2.54mm
+12x-dip-switch SPST , Piano, row spacing 7.62 mm (300 mils), body size 10.8x32.04mm
+DIP Switch SPST Piano 7.62mm 300mil
+0
+24
+24
+Button_Switch_THT
+SW_DIP_SPSTx12_Piano_CTS_Series194-12MSTN_W7.62mm_P2.54mm
+12x-dip-switch SPST CTS_Series194-12MSTN, Piano, row spacing 7.62 mm (300 mils), body size  (see https://www.ctscorp.com/wp-content/uploads/194-195.pdf)
+DIP Switch SPST Piano 7.62mm 300mil
+0
+24
+24
+Button_Switch_THT
+SW_DIP_SPSTx12_Slide_6.7x32.04mm_W7.62mm_P2.54mm_LowProfile
+12x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 6.7x32.04mm (see e.g. https://www.ctscorp.com/wp-content/uploads/209-210.pdf), LowProfile
+DIP Switch SPST Slide 7.62mm 300mil LowProfile
+0
+24
+24
+Button_Switch_THT
+SW_DIP_SPSTx12_Slide_9.78x32.66mm_W7.62mm_P2.54mm
+12x-dip-switch SPST , Slide, row spacing 7.62 mm (300 mils), body size 9.78x32.66mm (see e.g. https://www.ctscorp.com/wp-content/uploads/206-208.pdf)
+DIP Switch SPST Slide 7.62mm 300mil
+0
+24
+24
+Button_Switch_THT
+SW_E-Switch_EG1224_SPDT_Angled
+E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf
+switch SPDT
+0
+7
+3
+Button_Switch_THT
+SW_E-Switch_EG1271_DPDT
+E-Switch sub miniature slide switch, EG series, DPDT, http://spec_sheets.e-switch.com/specs/P040047.pdf
+switch DPDT
+0
+6
+6
+Button_Switch_THT
+SW_E-Switch_EG2219_DPDT_Angled
+E-Switch slide switch, EG series, DPDT, right angle, http://spec_sheets.e-switch.com/specs/P040170.pdf
+switch DPDT
+0
+10
+6
+Button_Switch_THT
+SW_Lever_1P2T_NKK_GW12LxH
+Switch, single pole double throw, right angle, http://www.nkkswitches.com/pdf/GW.pdf
+switch single-pole double-throw spdt ON-ON horizontal
+0
+5
+3
+Button_Switch_THT
+SW_MEC_5GTH9
+MEC 5G single pole normally-open tactile switch https://cdn.sos.sk/productdata/80/f6/aabf7be6/5gth9358222.pdf
+switch normally-open pushbutton push-button
+0
+4
+2
+Button_Switch_THT
+SW_NKK_BB15AH
+https://www.nkkswitches.com/pdf/Bpushbuttons-1.pdf
+Pushbutton Right-angle
+0
+5
+3
+Button_Switch_THT
+SW_NKK_G1xJP
+Switch NKK G1xJP http://www.nkkswitches.com/pdf/gwillum.pdf
+SWITCH TOGGLE ILLUM SPDT NKK
+0
+6
+6
+Button_Switch_THT
+SW_NKK_GW12LJP
+Switch, single pole double throw, illuminated paddle, http://www.nkkswitches.com/pdf/gwillum.pdf
+switch single-pole double-throw spdt ON-ON illuminated LED
+0
+6
+6
+Button_Switch_THT
+SW_PUSH-12mm
+SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf
+tact sw push 12mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH-12mm_Wuerth-430476085716
+SW PUSH 12mm http://katalog.we-online.de/em/datasheet/430476085716.pdf
+tact sw push 12mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm
+https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H4.3mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=4.3mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H5mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=5mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H7.3mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=7.3mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H8.5mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=8.5mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H8mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=8mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H9.5mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=9.5mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_6mm_H13mm
+tactile push button, 6x6mm e.g. PHAP33xx series, height=13mm
+tact sw push 6mm
+0
+4
+2
+Button_Switch_THT
+SW_PUSH_E-Switch_FS5700DP_DPDT
+FS5700 series pushbutton footswitch, DPDT, https://www.e-switch.com/system/asset/product_line/data_sheet/226/FS5700.pdf
+switch DPDT footswitch
+0
+6
+6
+Button_Switch_THT
+SW_PUSH_LCD_E3_SAxxxx
+Switch with LCD screen E3 SAxxxx
+switch normally-open pushbutton push-button LCD
+0
+6
+6
+Button_Switch_THT
+SW_PUSH_LCD_E3_SAxxxx_SocketPins
+Switch with LCD screen E3 SAxxxx
+switch normally-open pushbutton push-button LCD
+0
+6
+6
+Button_Switch_THT
+SW_Push_1P1T_NO_LED_E-Switch_TL1250
+illuminated right angle tact switch https://www.e-switch.com/system/asset/product_line/data_sheet/148/TL1250.pdf
+led push switch right angle
+0
+6
+4
+Button_Switch_THT
+SW_Push_1P2T_Vertical_E-Switch_800UDP8P1A1M6
+ right angle SPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf
+IP67 ultra-miniture horizontal
+0
+5
+3
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH1xxxxxxV2
+momentary / push-push button, h=17.5mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH2xxxxxxV2
+momentary / push-push button, h=23mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH3xxxxxxV2
+momentary / push-push button, h=20.5mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P1T_Toggle_CK_PVA1xxH4xxxxxxV2
+momentary / push-push button, h=15mm C&K PVA1 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA1 DPST
+0
+4
+4
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2OAH5xxxxxxV2
+momentary / push-push button, h=13mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH1xxxxxxV2
+momentary / push-push button, h=17.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH2xxxxxxV2
+momentary / push-push button, h=23mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH3xxxxxxV2
+momentary / push-push button, h=20.5mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Toggle_CK_PVA2xxH4xxxxxxV2
+momentary / push-push button, h=15mm C&K PVA2 https://www.ckswitches.com/media/1343/pva.pdf
+tact sw push PVA2 DPDT
+0
+6
+6
+Button_Switch_THT
+SW_Push_2P2T_Vertical_E-Switch_800UDP8P1A1M6
+ right angle DPDT push button https://www.e-switch.com/system/asset/product_line/data_sheet/210/800U.pdf
+IP67 ultra-miniture horizontal
+0
+8
+6
+Button_Switch_THT
+SW_Slide_1P2T_CK_OS102011MS2Q
+CuK miniature slide switch, OS series, SPDT, https://www.ckswitches.com/media/1428/os.pdf
+switch SPDT
+0
+5
+3
+Button_Switch_THT
+SW_TH_Tactile_Omron_B3F-10xx
+SW_TH_Tactile_Omron_B3F-10xx_https://www.omron.com/ecb/products/pdf/en-b3f.pdf
+Omron B3F-10xx
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SKHH_Angled
+tactile switch 6mm ALPS SKHH right angle http://www.alps.com/prod/info/E/HTML/Tact/SnapIn/SKHH/SKHHLUA010.html
+tactile switch 6mm ALPS SKHH right angle
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx31-2LFS
+tactile switch SPST right angle, PTS645VL31-2 LFS
+tactile switch SPST angled PTS645VL31-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx39-2LFS
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx58-2LFS
+tactile switch SPST right angle, PTS645VL58-2 LFS
+tactile switch SPST angled PTS645VL58-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_SPST_Angled_PTS645Vx83-2LFS
+tactile switch SPST right angle, PTS645VL83-2 LFS
+tactile switch SPST angled PTS645VL83-2 LFS C&K Button
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_Straight_KSA0Axx1LFTR
+SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SW PUSH SMALL Tactile C&K
+0
+4
+2
+Button_Switch_THT
+SW_Tactile_Straight_KSL0Axx1LFTR
+SW PUSH SMALL http://www.ckswitches.com/media/1457/ksa_ksl.pdf
+SW PUSH SMALL Tactile C&K
+0
+4
+2
+Connector_Audio
+Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
+3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector (https://www.cui.com/product/resource/sj-352x-smt-series.pdf)
+3.5mm audio cui horizontal jack stereo
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3523N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3524N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3525N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3533NG_Horizontal_CircularHoles
+TRS 3.5mm, horizontal, through-hole, , circular holeshttps://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3535NG_Horizontal
+TRS 3.5mm, horizontal, through-hole, with switch, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3535NG_Horizontal_CircularHoles
+TRS 3.5mm, horizontal, through-hole, with switch, circular holes, https://www.cui.com/product/resource/sj1-353xng.pdf
+TRS audio jack stereo horizontal circular
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_Ledino_KB3SPRS_Horizontal
+https://www.reichelt.de/index.html?ACTION=7&LA=3&OPEN=0&INDEX=0&FILENAME=C160%252FKB3SPRS.pdf
+jack stereo TRS
+0
+5
+5
+Connector_Audio
+Jack_3.5mm_Lumberg_1503_07_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://downloads.lumberg.com/datenblaetter/en/1503_07.pdf
+TRS audio jack horizontal
+0
+4
+3
+Connector_Audio
+Jack_3.5mm_PJ311_Horizontal
+PJ311 6pin SMD 3.5mm stereo headphones jack.
+headphones jack plug stereo 3.5mm PJ311
+0
+6
+6
+Connector_Audio
+Jack_3.5mm_PJ320D_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_PJ320E_Horizontal
+Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320E-177.html)
+3.5mm jack mic microphone phones headphones 4pins audio plug
+0
+5
+4
+Connector_Audio
+Jack_3.5mm_PJ31060-I_Horizontal
+PJ31060-I 6pin SMD 3.5mm headphones jack (http://www.china-bsun.com/Product48/1577.html)
+headphones jack plug stereo 3.5mm PJ31060-I PJ31060
+0
+6
+6
+Connector_Audio
+Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical_CircularHoles
+TRS 3.5mm, vertical, Thonkiconn, PCB mount, (http://www.qingpu-electronics.com/en/products/WQP-PJ398SM-362.html)
+WQP-PJ398SM WQP-PJ301M-12 TRS 3.5mm mono vertical jack thonkiconn qingpu
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_Switronic_ST-005-G_horizontal
+3.5mm horizontal headphones jack, http://akizukidenshi.com/download/ds/switronic/ST-005-G.pdf
+Connector Audio Switronic ST-005-G
+0
+4
+3
+Connector_Audio
+Jack_3.5mm_Technik_TWP-3002_Horizontal
+3.5mm Horizontal Waterproof Stereo Headphones Jack, https://www.technik.com.hk/images/pdf_product/WP3002-PA66-A.pdf
+audio jack stereo horizontal waterproof
+0
+7
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ2FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, Non-switching mono jack (T/S), https://www.neutrik.com/en/product/nj2fd-v
+neutrik jack vertical
+0
+2
+2
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ3FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, Non-switching stereo jack (T/R/S), https://www.neutrik.com/en/product/nj3fd-v
+neutrik jack vertical
+0
+3
+3
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ5FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 2 x switching (normalling) stereo jack (T/TN/R/RN/S), https://www.neutrik.com/en/product/nj5fd-v
+neutrik jack vertical
+0
+5
+5
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ6FD-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 3 x switching (normalling) stereo jack (T/TN/R/RN/S/SN), https://www.neutrik.com/en/product/nj6fd-v
+neutrik jack vertical
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NJ6TB-V_Vertical
+6.35mm (1/4 in) Vertical Jack, 3 x switching (normalling) stereo jack  B-gauge type (T/TN/R/RN/S/SN), https://www.neutrik.com/en/product/nj6tb-v
+neutrik jack vertical
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HCD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj4hcd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HFD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with full threaded nose and straight PCB pins, https://www.neutrik.com/en/product/nmj4hfd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HFD3_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with a full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hfd3
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ4HHD2_Horizontal
+M Series, 6.35mm (1/4in) mono jack, switched, with a half threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj4hhd2
+neutrik jack m
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HCD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and straight PCB pins, https://www.neutrik.com/en/product/nmj6hcd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HCD3_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with chrome ferrule and offset PCB pins, https://www.neutrik.com/en/product/nmj6hcd3
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD2-AU_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, full threaded nose, straight PCB pins, gold plated contacts, https://www.neutrik.com/en/product/nmj6hfd2-au
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and straight PCB pins, https://www.neutrik.com/en/product/nmj6hfd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD3_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj6hfd3
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HFD4_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with full threaded nose and fishtail PCB pins, https://www.neutrik.com/en/product/nmj6hfd4
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NMJ6HHD2_Horizontal
+M Series, 6.35mm (1/4in) stereo jack, switched, with half threaded nose and offset PCB pins, https://www.neutrik.com/en/product/nmj6hhd2
+neutrik jack m
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ3HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, unswitched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj3hf-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj4hf-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HF_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj4hf
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HH-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj4hh-1
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ4HH_Horizontal
+Slim Jacks, 6.35mm (1/4in) mono jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj4hh
+neutrik jack slim
+0
+4
+4
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-1-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hf-1-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hf-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HF_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, fully threaded nose, https://www.neutrik.com/en/product/nrj6hf
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, sleeve contact/front panel connection, https://www.neutrik.com/en/product/nrj6hh-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, gold plated contacts, half threaded nose, https://www.neutrik.com/en/product/nrj6hh-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HH_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, switched, half threaded nose, https://www.neutrik.com/en/product/nrj6hh
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1-AU_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose, gold plated contacts, efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1-au
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1-PRE_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose, efficient chassis ground connection, T+R normalling contact, https://www.neutrik.com/en/product/nrj6hm-1-pre
+neutrik jack slim
+0
+6
+5
+Connector_Audio
+Jack_6.35mm_Neutrik_NRJ6HM-1_Horizontal
+Slim Jacks, 6.35mm (1/4in) stereo jack, metal nose with efficient chassis ground connection, T+R+S normalling contact, https://www.neutrik.com/en/product/nrj6hm-1
+neutrik jack slim
+0
+6
+6
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ8HC_Horizontal
+Stacking Jacks, Mono dual jack, full nose, https://www.neutrik.com/en/product/nsj8hc
+neutrik jack stacking
+0
+9
+9
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ8HL_Horizontal
+Stacking Jacks, Mono dual jack, quick fix nose, https://www.neutrik.com/en/product/nsj8hl
+neutrik jack stacking
+0
+9
+9
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HC_Horizontal
+Stacking Jacks, Stereo dual jack, full nose, https://www.neutrik.com/en/product/nsj12hc
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HF-1_Horizontal
+Stacking Jacks, Stereo dual jack, full threaded nose, https://www.neutrik.com/en/product/nsj12hf-1
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HH-1_Horizontal
+Stacking Jacks, Stereo dual jack, half threaded nose, https://www.neutrik.com/en/product/nsj12hh-1
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_6.35mm_Neutrik_NSJ12HL_Horizontal
+Stacking Jacks, Stereo dual jack, quick fix nose, https://www.neutrik.com/en/product/nsj12hl
+neutrik jack stacking
+0
+13
+13
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj5fi-h-0
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj5fi-h
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj5fi-v-0
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ5FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) mono jack without switching contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj5fi-v
+neutrik jack combo i
+0
+6
+6
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-0_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fa-h-0
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H-DA_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/ncj6fa-h-da
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-H_Horizontal
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, horizontal PCB mount, https://www.neutrik.com/en/product/ncj6fa-h
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-0_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fa-v-0
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V-DA_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/ncj6fa-v-da
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FA-V_Vertical
+Combo A series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj6fa-v
+neutrik jack combo a
+0
+8
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj6fi-h-0
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fi-h
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj6fi-v-0
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ6FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) stereo jack without switching contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj6fi-v
+neutrik jack combo i
+0
+7
+7
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, horizontal PCB mount, https://www.neutrik.com/en/product/ncj9fi-h-0
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj9fi-h
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, vertical PCB mount, https://www.neutrik.com/en/product/ncj9fi-v-0
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ9FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj9fi-v
+neutrik jack combo i
+0
+10
+10
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-H-0_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, horizontal PCB mount, https://www.neutrik.com/en/product/ncj10fi-h-0
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-H_Horizontal
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, horizontal PCB mount, retention spring, https://www.neutrik.com/en/product/ncj10fi-h
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-V-0_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, https://www.neutrik.com/en/product/ncj10fi-v-0
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR-6.35mm_Neutrik_NCJ10FI-V_Vertical
+Combo I series, 3 pole XLR female receptacle with 6.35mm (1/4in) switching stereo jack and switching ground contact, vertical PCB mount, retention spring, https://www.neutrik.com/en/product/ncj10fi-v
+neutrik jack combo i
+0
+11
+11
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah1-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1-DA_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3faah1-da
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH1_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH2-0_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faah2-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH2_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah2
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAH_Horizontal
+AA Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3faah
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV-0_Vertical
+AA Series, 3 pole female receptacle, grounding: without ground/shell contact, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1-0_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav1-0
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1-DA_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3faav1-da
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV1_Vertical
+AA Series, 3 pole female receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV2-0_Vertical
+AA Series, 3 pole female receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3faav2-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV2_Vertical
+AA Series, 3 pole female receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav2
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAAV_Vertical
+AA Series, 3 pole female receptacle, grounding: without ground/shell contact, vertical PCB mount, https://www.neutrik.com/en/product/nc3faav
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fah1-da
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fah2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2-DA_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fah2-da
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH2_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, lateral left PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahl-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahl1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHL1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3fahl1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR1-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR1_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR2-0_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fahr2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAHR2_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3fahr2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAH_Horizontal
+A Series, 3 pole female XLR receptacle, grounding: without ground/shell contact, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fah
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav1-0
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1-DA_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fav1-da
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV1_Vertical
+A Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav1
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2-0_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc3fav2-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2-DA_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fav2-da
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV2_Vertical
+A Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav2
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FAV_Vertical
+A Series, 3 pole female XLR receptacle, grounding: without ground / shell contact, vertical PCB mount, https://www.neutrik.com/en/product/nc3fav
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-B_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbh1-b
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-DA_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbh1-da
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1-E_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3fbh1-e
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH1_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fbh1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-B_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbh2-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-DA_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbh2-da
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2-E_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3fbh2-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBH2_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3fbh2
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBHL1_Horizontal
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3fbhl1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-0_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, retention spring, no latch, https://www.neutrik.com/en/product/nc3fbv1-0
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-B_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbv1-b
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1-DA_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbv1-da
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV1_Vertical
+B Series, 3 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-B_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3fbv2-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-DA_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc3fbv2-da
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2-SW_Vertical
+B Series, 3 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv2-sw
+neutrik xlr b
+0
+7
+7
+Connector_Audio
+Jack_XLR_Neutrik_NC3FBV2_Vertical
+B Series, 3 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3fbv2
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH-0_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH-1_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah-1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAH_Horizontal
+AA Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3maah
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV-0_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-0
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV-1_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav-1
+neutrik xlr aa
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAAV_Vertical
+AA Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3maav
+neutrik xlr aa
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAFH-PH_Horizontal
+A Series, Chassis connector H female (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mafh-ph
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAH-0_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mah-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAHL_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral left PCB mount, https://www.neutrik.com/en/product/nc3mahl
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAHR_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, lateral right PCB mount, https://www.neutrik.com/en/product/nc3mahr
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAH_Horizontal
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mah
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAMH-PH_Horizontal
+A Series, Chassis connector Phoenix H male (A series layout), horizontal PCB mount, https://www.neutrik.com/en/product/nc4mamh-ph
+neutrik xlr a
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAV-0_Vertical
+A Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, vertical PCB mount, https://www.neutrik.com/en/product/nc3mav-0
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MAV_Vertical
+A Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3mav
+neutrik xlr a
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-0_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh-0
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-1_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh-1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbh-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH-E_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3mbh-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHL-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral left PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbhl-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHL_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral left PCB mount, https://www.neutrik.com/en/product/nc3mbhl
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHR-B_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral right PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbhr-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBHR_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, lateral right PCB mount, https://www.neutrik.com/en/product/nc3mbhr
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBH_Horizontal
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, horizontal PCB mount, https://www.neutrik.com/en/product/nc3mbh
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-0_Vertical
+B Series, 3 pole male XLR receptacle, grounding: ground contact connected to shell ground, but not to front panel and Pin 1, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-0
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-1_Vertical
+B Series, 3 pole male XLR receptacle, grounding: mating connector shell to pin1 and front panel, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-1
+neutrik xlr b
+0
+3
+3
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-B_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc3mbv-b
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-E_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, additional ground contacts, https://www.neutrik.com/en/product/nc3mbv-e
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV-SW_Vertical
+B Series, 3 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv-sw
+neutrik xlr b
+0
+7
+7
+Connector_Audio
+Jack_XLR_Neutrik_NC3MBV_Vertical
+B Series, 3 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, steel retention lug, vertical PCB mount, https://www.neutrik.com/en/product/nc3mbv
+neutrik xlr b
+0
+4
+4
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAH-0_Horizontal
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc4fah-0
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAH_Horizontal
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4fah
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAV-0_Vertical
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc4fav-0
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FAV_Vertical
+A Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4fav
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FBH_Horizontal
+B Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4fbh
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4FBV_Vertical
+B Series, 4 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4fbv
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MAH_Horizontal
+A Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4mah
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MAV_Vertical
+A Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4mav
+neutrik xlr a
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MBH_Horizontal
+B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc4mbh
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC4MBV_Vertical
+B Series, 4 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc4mbv
+neutrik xlr b
+0
+5
+5
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH-0_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, retention spring instead of latch, https://www.neutrik.com/en/product/nc5fah-0
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH-DA_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc5fah-da
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAH_Horizontal
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5fah
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV-DA_Vertical
+A Series, 5 pole female XLR receptacle, grounding: mating connector shell to pin1 and front panel, horizontal PCB mount, asymmetric push, https://www.neutrik.com/en/product/nc5fav-da
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV-SW_Vertical
+A Series, 5 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, color coding possible, https://www.neutrik.com/en/product/nc5fav-sw
+neutrik xlr a
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5FAV_Vertical
+A Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fav
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBH-B_Horizontal
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5fbh-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBH_Horizontal
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5fbh
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV-B_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5fbv-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV-SW_Vertical
+B Series, 5 pole female XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv-sw
+neutrik xlr b
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5FBV_Vertical
+B Series, 5 pole female XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5fbv
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAH_Horizontal
+A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5mah
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAV-SW_Vertical
+A Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav-sw
+neutrik xlr a
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5MAV_Vertical
+A Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mav
+neutrik xlr a
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBH-B_Horizontal
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5mbh-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBH_Horizontal
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, horizontal PCB mount, https://www.neutrik.com/en/product/nc5mbh
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV-B_Vertical
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, black chrome shell, https://www.neutrik.com/en/product/nc5mbv-b
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV-SW_Vertical
+B Series, 5 pole male XLR receptacle, switching contacts, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mbv-sw
+neutrik xlr b
+0
+9
+9
+Connector_Audio
+Jack_XLR_Neutrik_NC5MBV_Vertical
+B Series, 5 pole male XLR receptacle, grounding: separate ground contact to mating connector shell and front panel, vertical PCB mount, https://www.neutrik.com/en/product/nc5mbv
+neutrik xlr b
+0
+6
+6
+Connector_Audio
+Jack_speakON-6.35mm_Neutrik_NLJ2MD-H_Horizontal
+speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, horizontal pcb mount, https://www.neutrik.com/en/product/nlj2md-h
+neutrik speakon combo
+0
+2
+2
+Connector_Audio
+Jack_speakON-6.35mm_Neutrik_NLJ2MD-V_Vertical
+speakON Combo, 2 pole combination of speakON socket and 6.35mm (1/4in) jack receptacle, vertical pcb mount, https://www.neutrik.com/en/product/nlj2md-v
+neutrik speakon combo
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL2MD-H_Horizontal
+speakON Chassis Connectors, 2 pole chassis connector, gray D-size flange, countersunk thru holes, horizontal PCB, https://www.neutrik.com/en/product/nl2md-h
+neutrik speakon
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL2MD-V_Vertical
+speakON Chassis Connectors, 2 pole chassis connector, black D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl2md-v
+neutrik speakon
+0
+2
+2
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-1_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, countersunk thru holes, horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-1
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-2_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-2
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H-3_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h-3
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-H_Horizontal
+speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), horizontal PCB mount, https://www.neutrik.com/en/product/nl4md-h
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-1_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, grey D-size flange, self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-1
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-2_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, mirrored self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-2
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-R_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, red D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v-r
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V-S_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, switchable version of NL4MD-V with 8 vertical PCB contacts (4 switching contacts), https://www.neutrik.com/en/product/nl4md-v-s
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NL4MD-V_Vertical
+speakON Chassis Connectors, 4 pole chassis connector, black D-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl4md-v
+neutrik speakon
+0
+4
+4
+Connector_Audio
+Jack_speakON_Neutrik_NL8MD-V-1_Vertical
+speakON Chassis Connectors, 8 pole chassis connector, nickel metal square G-size flange, self tapping screw holes (A-screw), vertical PCB mount, https://www.neutrik.com/en/product/nl8md-v-1
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NL8MD-V_Vertical
+speakON Chassis Connectors, 8 pole chassis connector, nickel metal square G-size flange, countersunk thru holes, vertical PCB mount, https://www.neutrik.com/en/product/nl8md-v
+neutrik speakon
+0
+8
+8
+Connector_Audio
+Jack_speakON_Neutrik_NLT4MD-V_Vertical
+STX Series, 4 pole male chassis connector, metal housing, vertical PCB mount,  self tapping screw holes (A-screw), https://www.neutrik.com/en/product/nlt4md-v
+neutrik speakon stx
+0
+4
+4
+Connector_Audio
+MiniXLR-5_Switchcraft_TRAPC_Horizontal
+http://www.switchcraft.com/ProductSummary.aspx?Parent=620 http://www.switchcraft.com/Drawings/TRAPC_X-TRASM_X_SERIES_CD.PDF
+THT Mini XLR 5Pin right angle
+0
+5
+5
+Keebio-Parts
+3_Pin_Jumper
+
+
+0
+9
+3
+Keebio-Parts
+4pin35mmAudio
+
+
+0
+6
+6
+Keebio-Parts
+AST1109MLTRQ
+Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
+Murata Buzzer Beeper
+0
+2
+2
+Keebio-Parts
+AT90USB1286_TQFP_14mm
+64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+64
+64
+Keebio-Parts
+ATMEGA32U4-AU
+
+
+0
+44
+44
+Keebio-Parts
+ArduinoProMicro
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-BackSide
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-Mini-USB
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-Mini-USB-No-Text
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-Mini-USB-ZigZag
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-TopSide
+
+
+0
+24
+24
+Keebio-Parts
+ArduinoProMicro-ZigZag
+
+
+0
+24
+24
+Keebio-Parts
+CUI_SJ-43614-SMT
+
+
+0
+4
+4
+Keebio-Parts
+C_0402
+Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
+capacitor 0402
+0
+2
+2
+Keebio-Parts
+C_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+Keebio-Parts
+Cherry-MX-Low-Profile
+
+
+0
+2
+2
+Keebio-Parts
+Crystal_SMD_2520-4pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
+SMD SMT crystal
+0
+4
+4
+Keebio-Parts
+Crystal_SMD_3225-4pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+Keebio-Parts
+D_0805
+
+
+0
+2
+2
+Keebio-Parts
+D_SOD-323
+SOD-323
+SOD-323
+0
+2
+2
+Keebio-Parts
+D_SOD123
+
+
+0
+2
+2
+Keebio-Parts
+D_SOD123F
+
+
+0
+2
+2
+Keebio-Parts
+Diode
+
+
+0
+2
+2
+Keebio-Parts
+Diode-Hybrid-Back
+
+
+0
+6
+2
+Keebio-Parts
+Diode-dual
+
+
+0
+10
+2
+Keebio-Parts
+Diode-hybrid-3pad
+
+
+0
+6
+2
+Keebio-Parts
+Diode_Long
+
+
+0
+2
+2
+Keebio-Parts
+Elite-C
+
+
+0
+29
+29
+Keebio-Parts
+Elite-C-ZigZag
+
+
+0
+29
+29
+Keebio-Parts
+Elite-C-castellated-24pin
+
+
+0
+24
+24
+Keebio-Parts
+Elite-C-castellated-24pin-holes
+
+
+0
+48
+24
+Keebio-Parts
+Elite-C-castellated-29pin
+
+
+0
+29
+29
+Keebio-Parts
+Elite-C-castellated-29pin-holes
+
+
+0
+58
+29
+Keebio-Parts
+Epson_TSX-3225
+
+
+0
+4
+4
+Keebio-Parts
+Fuse_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
+Keebio-Parts
+HRO-TYPE-C-31-M-12-Assembly
+
+
+0
+16
+13
+Keebio-Parts
+Header-6-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Keebio-Parts
+Header-12-Pin-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+Keebio-Parts
+Header-12-Pin-ZigZag-Square
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+12
+12
+Keebio-Parts
+I2C_Breakout
+Through hole straight pin header, 1x04, 2.54mm pitch, single row
+Through hole pin header THT 1x04 2.54mm single row
+0
+4
+4
+Keebio-Parts
+ICSP-Header
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Keebio-Parts
+ICSP-Header-ZigZag
+Through hole straight socket strip, 1x06, 2.54mm pitch, single row
+Through hole socket strip THT 1x06 2.54mm single row
+0
+6
+6
+Keebio-Parts
+ICSP_1.27mm
+Through hole straight pin header, 2x03, 1.27mm pitch, double rows
+Through hole pin header THT 2x03 1.27mm double row
+0
+6
+6
+Keebio-Parts
+JUMPER_SMD_2DUB
+
+
+0
+12
+2
+Keebio-Parts
+KLJ-1102
+
+
+0
+2
+2
+Keebio-Parts
+Kailh-PG1350-1.5u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1.25u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1.25u-LED-flip
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1u-No-Clickhole
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-1u-NoLED
+
+
+0
+2
+2
+Keebio-Parts
+Kailh-PG1350-1u-reversible
+
+
+0
+5
+4
+Keebio-Parts
+Kailh-PG1350-1u-reversible-No-Clickhole
+
+
+0
+5
+4
+Keebio-Parts
+Kailh-PG1350-1u-reversible-flip
+
+
+0
+5
+4
+Keebio-Parts
+Kailh-PG1350-2.5u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-2u
+
+
+0
+4
+4
+Keebio-Parts
+Kailh-PG1350-2u-NoLED
+
+
+0
+2
+2
+Keebio-Parts
+Kailh-PG1350-2u-Vert-NoLED
+
+
+0
+2
+2
+Keebio-Parts
+LED_3mm
+
+
+0
+2
+2
+Keebio-Parts
+LQFP-48_7x7mm_Pitch0.5mm
+48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+Keebio-Parts
+Low-Profile-Choc-MX
+
+
+0
+5
+4
+Keebio-Parts
+MD_Diode
+
+
+0
+2
+2
+Keebio-Parts
+MX-Alps-Choc-1U
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps-Choc-1U-No-Clickhole
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps-Choc-1U-NoLED
+
+
+0
+6
+2
+Keebio-Parts
+MX-Alps-Choc-1U-NoLED-Alt
+
+
+0
+6
+2
+Keebio-Parts
+MX-Alps-Choc-2U
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps-Choc-2U-StabFlip
+
+
+0
+8
+4
+Keebio-Parts
+MX-Alps_DMask
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_FMask
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_FMask-2u
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_Switch_Cutout
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_Switch_Cutout-1u_1.25u
+
+
+0
+0
+0
+Keebio-Parts
+MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
+
+
+0
+0
+0
+Keebio-Parts
+MX-Alps_Switch_Cutout-1u_2u
+
+
+0
+2
+1
+Keebio-Parts
+MX-Alps_Switch_Cutout-3u-wide
+
+
+0
+0
+0
+Keebio-Parts
+MX-Quad
+MX/Alps footprint
+
+0
+8
+2
+Keebio-Parts
+MX_FMask
+
+
+0
+2
+1
+Keebio-Parts
+MX_FMask-2u
+
+
+0
+3
+1
+Keebio-Parts
+MX_FMask-2u-with-cutout
+
+
+0
+2
+1
+Keebio-Parts
+MX_FMask-with-cutout
+
+
+0
+2
+1
+Keebio-Parts
+MX_LED
+
+
+0
+2
+2
+Keebio-Parts
+MX_Stabilizer_Cutout
+
+
+0
+0
+0
+Keebio-Parts
+MX_Stabilizer_Cutout-2u
+
+
+0
+0
+0
+Keebio-Parts
+MX_Switch_Cutout
+
+
+0
+0
+0
+Keebio-Parts
+MX_Switch_Mod_Cutout
+
+
+0
+0
+0
+Keebio-Parts
+Mini-USB
+
+
+0
+7
+6
+Keebio-Parts
+MountingHole
+
+
+0
+1
+0
+Keebio-Parts
+NovelKeys_Kailh_Big_Series_Switch
+
+
+0
+2
+2
+Keebio-Parts
+Pin_Header_Straight_2x03_Pitch1.00mm
+Through hole straight pin header, 2x03, 1.00mm pitch, double rows
+Through hole pin header THT 2x03 1.00mm double row
+0
+6
+6
+Keebio-Parts
+QFN-44-1EP_7x7mm_Pitch0.5mm
+UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
+QFN 0.5
+0
+60
+45
+Keebio-Parts
+RGB-6028
+
+
+0
+4
+4
+Keebio-Parts
+RGB_3528_Blue_Notch
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+Keebio-Parts
+RGB_3528_Blue_Notch-MX
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+Keebio-Parts
+RGB_3528_Blue_Notch-MX-Flip
+RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
+LED 3227
+0
+4
+4
+Keebio-Parts
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
+Keebio-Parts
+R_0402
+Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
+resistor 0402
+0
+2
+2
+Keebio-Parts
+R_0603
+SMT, 1608, 0603
+SMT, 1608, 0603
+0
+2
+2
+Keebio-Parts
+R_0805
+SMT, 2012, 0805
+SMT, 2012, 0805
+0
+2
+2
+Keebio-Parts
+Resistor
+
+
+0
+2
+2
+Keebio-Parts
+Resistor-Compact
+
+
+0
+2
+2
+Keebio-Parts
+Resistor-Compact-1-side
+
+
+0
+2
+2
+Keebio-Parts
+Resistor-Hybrid
+
+
+0
+10
+2
+Keebio-Parts
+Resistor-Hybrid-Back
+
+
+0
+6
+2
+Keebio-Parts
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+Keebio-Parts
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+Keebio-Parts
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+Keebio-Parts
+RotaryEncoder_EC11B-Horizontal-Dual
+
+
+0
+7
+5
+Keebio-Parts
+RotaryEncoder_EC11_Nonplated
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+Keebio-Parts
+SK6812-MINI-E
+
+
+0
+4
+4
+Keebio-Parts
+SM0805D
+
+
+0
+2
+2
+Keebio-Parts
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Keebio-Parts
+SOIC-8_5.23x5.23mm_P1.27mm
+SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO
+0
+8
+8
+Keebio-Parts
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+Keebio-Parts
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+Keebio-Parts
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
+3
+Keebio-Parts
+SOT-143B
+SOT143B
+
+0
+4
+4
+Keebio-Parts
+SOT-363_SC-70-6
+SOT-363, SC-70-6
+SOT-363 SC-70-6
+0
+6
+6
+Keebio-Parts
+SW_SPST_3x3
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+Keebio-Parts
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
+Keebio-Parts
+SW_Tactile_SPST_Angled_MJTP1117
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+4
+2
+Keebio-Parts
+SW_Tactile_SPST_Angled_MJTP1117-no-mount
+tactile switch SPST right angle, PTS645VL39-2 LFS
+tactile switch SPST angled PTS645VL39-2 LFS C&K Button
+0
+2
+2
+Keebio-Parts
+SinglePad
+
+
+0
+1
+1
+Keebio-Parts
+SolderJumper
+
+
+0
+4
+3
+Keebio-Parts
+SolderJumperLeft
+
+
+0
+3
+3
+Keebio-Parts
+SolderJumperPair
+
+
+0
+6
+3
+Keebio-Parts
+SolderJumperRight
+
+
+0
+3
+3
+Keebio-Parts
+SolderJumperSet
+
+
+0
+12
+6
+Keebio-Parts
+SolderJumperSets
+
+
+0
+6
+2
+Keebio-Parts
+SolidCopper
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+2
+1
+Keebio-Parts
+TQFP-32_7x7mm_Pitch0.8mm
+32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+32
+32
+Keebio-Parts
+TQFP-44_10x10mm_Pitch0.8mm
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+44
+44
+Keebio-Parts
+TQFP-48_7x7mm_Pitch0.5mm
+48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
+QFP 0.5
+0
+48
+48
+Keebio-Parts
+TQFP-QFN-44_Combined
+44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.8
+0
+104
+45
+Keebio-Parts
+TRRS-PJ-320A
+
+
+0
+4
+4
+Keebio-Parts
+TRRS-PJ-320A-dual
+
+
+0
+5
+4
+Keebio-Parts
+TRRS-PJ-320A-no-Fmask
+
+
+0
+8
+4
+Keebio-Parts
+TRRS-PJ-320D
+
+
+0
+4
+4
+Keebio-Parts
+TRRS-PJ-605
+
+
+0
+6
+6
+Keebio-Parts
+TRRS-PJ-606
+
+
+0
+6
+6
+Keebio-Parts
+TRRS_Jack
+
+
+0
+6
+6
+Keebio-Parts
+TRRS_Jack-one-sided
+
+
+0
+4
+4
+Keebio-Parts
+TRRS_Jumper
+
+
+0
+6
+6
+Keebio-Parts
+Teensy_2.0
+
+
+0
+31
+31
+Keebio-Parts
+Triple-Dual-1u-LED
+
+
+0
+21
+4
+Keebio-Parts
+Triple-Dual-1u-LED-flip
+
+
+0
+21
+4
+Keebio-Parts
+Triple-Dual-2u-LED
+
+
+0
+21
+4
+Keebio-Parts
+Triple-Dual-2u-LED-stab-flip
+
+
+0
+21
+4
+Keebio-Parts
+USB-C-12-Pin-MidMount
+
+
+0
+16
+13
+Keebio-Parts
+USB-Mini-B_ LCSC-C46398
+
+
+0
+9
+6
+Keebio-Parts
+USB-Mini-B_2leg
+
+
+0
+7
+6
+Keebio-Parts
+USB_miniB_HandSolder
+http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+USB miniB hirose
+0
+9
+9
+Keebio-Parts
+VIA-0.6mm
+
+
+0
+1
+1
+Keebio-Parts
+WS2812B
+
+
+0
+4
+4
+Keebio-Parts
+WS2812B-4020
+
+
+0
+4
+4
+Keebio-Parts
+breakaway-hole
+
+
+0
+0
+0
+Keebio-Parts
+breakaway-hole-big
+
+
+0
+0
+0
+Keebio-Parts
+breakaway-mousebites
+
+
+0
+0
+0
+Keebio-Parts
+solder_jumper
+
+
+0
+2
+2
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_2.00u
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_3.00u
+Cherry MX PCB Stabilizer 3.00u
+Cherry MX Keyboard Stabilizer 3.00u Cutout
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_6.00u
+Cherry MX PCB Stabilizer 6.00u
+Cherry MX Keyboard Stabilizer 6.00u Cutout
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_6.25u
+Cherry MX PCB Stabilizer 6.25u
+Cherry MX Keyboard Stabilizer 6.25u Cutout
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_7.00u
+Cherry MX PCB Stabilizer 7.00u
+Cherry MX Keyboard Stabilizer 7.00u Cutout
+0
+0
+0
+Mounting_Keyboard_Stabilizer
+Stabilizer_Cherry_MX_8.00u
+Cherry MX PCB Stabilizer 8.00u 9.00u 10.00u
+Cherry MX Keyboard Stabilizer 8.00u 9.00u 10.00u Cutout
+0
+0
+0
+Sensor_Audio
+CUI_CMC-4013-SMT
+Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
+Microphone CUI 
+0
+2
+2
+Sensor_Audio
+Infineon_PG-LLGA-5-1
+Infineon_PG-LLGA-5-1 StepUp generated footprint, https://www.infineon.com/cms/en/product/packages/PG-LLGA/PG-LLGA-5-1/
+infineon mems microphone
+0
+15
+5
+Sensor_Audio
+Knowles_LGA-5_3.5x2.65mm
+https://www.knowles.com/docs/default-source/model-downloads/sph0641lu4h-1-revb.pdf
+MEMS Microphone LGA
+0
+5
+5
+Sensor_Audio
+ST_HLGA-6_3.76x4.72mm_P1.65mm
+http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/27/62/48/98/44/54/4d/36/DM00303211/files/DM00303211.pdf/jcr:content/translations/en.DM00303211.pdf
+HLGA Sensor Audio
+0
+6
+6
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias
+Alps/Matias keyswitch
+Alps Matias Keyboard Keyswitch Switch Plate Cutout
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.00u
+Alps/Matias keyswitch with 1.00u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 1.00u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.25u
+Alps/Matias keyswitch with 1.25u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 1.25u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.50u
+Alps/Matias keyswitch with 1.50u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 1.50u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_1.75u
+Alps/Matias keyswitch with 1.75u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 1.75u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.00u
+Alps/Matias keyswitch with 2.00u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 2.00u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.25u
+Alps/Matias keyswitch with 2.25u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 2.25u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.50u
+Alps/Matias keyswitch with 2.50u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 2.50u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_2.75u
+Alps/Matias keyswitch with 2.75u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 2.75u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_3.00u
+Alps/Matias keyswitch with 3.00u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 3.00u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_4.00u
+Alps/Matias keyswitch with 4.00u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 4.00u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_4.50u
+Alps/Matias keyswitch with 4.50u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 4.50u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_5.50u
+Alps/Matias keyswitch with 5.50u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 5.50u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_6.00u
+Alps/Matias keyswitch with 6.00u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 6.00u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_6.25u
+Alps/Matias keyswitch with 6.25u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 6.25u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_6.50u
+Alps/Matias keyswitch with 6.50u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 6.50u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_7.00u
+Alps/Matias keyswitch with 7.00u keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout 7.00u
+0
+4
+2
+Switch_Keyboard_Alps_Matias
+SW_Alps_Matias_ISOEnter
+Alps/Matias keyswitch with ISOEnter keycap
+Alps Matias Keyboard Keyswitch Switch Plate Cutout ISOEnter
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB
+Cherry MX keyswitch PCB Mount
+Cherry MX Keyboard Keyswitch Switch PCB Cutout
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.00u
+Cherry MX keyswitch PCB Mount with 1.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u
+Cherry MX keyswitch PCB Mount with 1.25u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.25u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.25u_90deg
+Cherry MX keyswitch PCB Mount with 1.25u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.25u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u
+Cherry MX keyswitch PCB Mount with 1.50u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.50u_90deg
+Cherry MX keyswitch PCB Mount with 1.50u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.50u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u
+Cherry MX keyswitch PCB Mount with 1.75u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.75u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_1.75u_90deg
+Cherry MX keyswitch PCB Mount with 1.75u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.75u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u
+Cherry MX keyswitch PCB Mount with 2.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.00u_90deg
+Cherry MX keyswitch PCB Mount with 2.00u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.00u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u
+Cherry MX keyswitch PCB Mount with 2.25u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.25u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.25u_90deg
+Cherry MX keyswitch PCB Mount with 2.25u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.25u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u
+Cherry MX keyswitch PCB Mount with 2.50u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.50u_90deg
+Cherry MX keyswitch PCB Mount with 2.50u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.50u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u
+Cherry MX keyswitch PCB Mount with 2.75u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.75u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_2.75u_90deg
+Cherry MX keyswitch PCB Mount with 2.75u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.75u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u
+Cherry MX keyswitch PCB Mount with 3.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 3.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_3.00u_90deg
+Cherry MX keyswitch PCB Mount with 3.00u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 3.00u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.00u
+Cherry MX keyswitch PCB Mount with 4.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 4.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_4.50u
+Cherry MX keyswitch PCB Mount with 4.50u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 4.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_5.50u
+Cherry MX keyswitch PCB Mount with 5.50u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 5.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u
+Cherry MX keyswitch PCB Mount with 6.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.00u_Offset
+Cherry MX keyswitch PCB Mount with 6.00u Offset keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.00u Offset
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.25u
+Cherry MX keyswitch PCB Mount with 6.25u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.25u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_6.50u
+Cherry MX keyswitch PCB Mount with 6.50u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_7.00u
+Cherry MX keyswitch PCB Mount with 7.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 7.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter
+Cherry MX keyswitch PCB Mount with ISOEnter keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_90deg
+Cherry MX keyswitch PCB Mount with ISOEnter 90deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_180deg
+Cherry MX keyswitch PCB Mount with ISOEnter 180deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter 180deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_PCB_ISOEnter_270deg
+Cherry MX keyswitch PCB Mount with ISOEnter 270deg keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter 270deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate
+Cherry MX keyswitch Plate Mount
+Cherry MX Keyboard Keyswitch Switch Plate Cutout
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.00u
+Cherry MX keyswitch Plate Mount with 1.00u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u
+Cherry MX keyswitch Plate Mount with 1.25u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.25u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.25u_90deg
+Cherry MX keyswitch Plate Mount with 1.25u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.25u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u
+Cherry MX keyswitch Plate Mount with 1.50u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.50u_90deg
+Cherry MX keyswitch Plate Mount with 1.50u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.50u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u
+Cherry MX keyswitch Plate Mount with 1.75u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.75u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_1.75u_90deg
+Cherry MX keyswitch Plate Mount with 1.75u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.75u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u
+Cherry MX keyswitch Plate Mount with 2.00u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.00u_90deg
+Cherry MX keyswitch Plate Mount with 2.00u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.00u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u
+Cherry MX keyswitch Plate Mount with 2.25u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.25u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.25u_90deg
+Cherry MX keyswitch Plate Mount with 2.25u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.25u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u
+Cherry MX keyswitch Plate Mount with 2.50u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.50u_90deg
+Cherry MX keyswitch Plate Mount with 2.50u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.50u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u
+Cherry MX keyswitch Plate Mount with 2.75u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.75u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_2.75u_90deg
+Cherry MX keyswitch Plate Mount with 2.75u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.75u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u
+Cherry MX keyswitch Plate Mount with 3.00u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 3.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_3.00u_90deg
+Cherry MX keyswitch Plate Mount with 3.00u 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 3.00u 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.00u
+Cherry MX keyswitch Plate Mount with 4.00u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 4.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_4.50u
+Cherry MX keyswitch Plate Mount with 4.50u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 4.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_5.50u
+Cherry MX keyswitch Plate Mount with 5.50u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 5.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u
+Cherry MX keyswitch Plate Mount with 6.00u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.00u_Offset
+Cherry MX keyswitch Plate Mount with 6.00u Offset keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.00u Offset
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.25u
+Cherry MX keyswitch Plate Mount with 6.25u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.25u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_6.50u
+Cherry MX keyswitch Plate Mount with 6.50u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.50u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_7.00u
+Cherry MX keyswitch Plate Mount with 7.00u keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout 7.00u
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter
+Cherry MX keyswitch Plate Mount with ISOEnter keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_90deg
+Cherry MX keyswitch Plate Mount with ISOEnter 90deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter 90deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_180deg
+Cherry MX keyswitch Plate Mount with ISOEnter 180deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter 180deg
+0
+4
+2
+Switch_Keyboard_Cherry_MX
+SW_Cherry_MX_Plate_ISOEnter_270deg
+Cherry MX keyswitch Plate Mount with ISOEnter 270deg keycap
+Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter 270deg
+0
+4
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1
+Kailh keyswitch Hotswap Socket
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_1.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 1.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 1.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_1.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 1.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 1.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_1.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 1.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 1.25u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_1.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 1.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 1.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_1.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 1.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 1.50u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_1.75u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 1.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 1.75u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_1.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 1.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 1.75u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.00u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.25u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.50u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.75u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.75u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_2.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 2.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 2.75u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_3.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 3.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 3.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_3.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 3.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 3.00u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_4.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 4.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 4.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_4.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 4.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 4.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_5.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 5.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 5.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_6.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 6.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 6.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_6.00u_Offset
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 6.00u Offset keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_6.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 6.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 6.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_6.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 6.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 6.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_7.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with 7.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout 7.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_ISOEnter
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with ISOEnter keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout ISOEnter
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_ISOEnter_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with ISOEnter 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout ISOEnter 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_ISOEnter_180deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with ISOEnter 180deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout ISOEnter 180deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_ISOEnter_270deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap with ISOEnter 270deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Cutout ISOEnter 270deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_1.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 1.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 1.00u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_1.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 1.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 1.25u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_1.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 1.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 1.25u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_1.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 1.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 1.50u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_1.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 1.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 1.50u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_1.75u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 1.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 1.75u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_1.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 1.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 1.75u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.00u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.00u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.25u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.25u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.50u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.50u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.75u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.75u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_2.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 2.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 2.75u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_3.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 3.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 3.00u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_3.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 3.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 3.00u 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_4.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 4.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 4.00u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_4.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 4.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 4.50u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_5.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 5.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 5.50u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_6.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 6.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 6.00u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_6.00u_Offset
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 6.00u Offset keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 6.00u Offset
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_6.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 6.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 6.25u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_6.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 6.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 6.50u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_7.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with 7.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout 7.00u
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with ISOEnter keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout ISOEnter
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with ISOEnter 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout ISOEnter 90deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter_180deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with ISOEnter 180deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout ISOEnter 180deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1V2_Plated_ISOEnter_270deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 Hotswap Plated with ISOEnter 270deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Hotswap Plated Cutout ISOEnter 270deg
+0
+10
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_1.00u
+Kailh keyswitch Hotswap Socket with 1.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_1.25u
+Kailh keyswitch Hotswap Socket with 1.25u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_1.25u_90deg
+Kailh keyswitch Hotswap Socket with 1.25u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.25u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_1.50u
+Kailh keyswitch Hotswap Socket with 1.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_1.50u_90deg
+Kailh keyswitch Hotswap Socket with 1.50u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.50u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_1.75u
+Kailh keyswitch Hotswap Socket with 1.75u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.75u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_1.75u_90deg
+Kailh keyswitch Hotswap Socket with 1.75u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 1.75u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.00u
+Kailh keyswitch Hotswap Socket with 2.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.00u_90deg
+Kailh keyswitch Hotswap Socket with 2.00u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.00u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.25u
+Kailh keyswitch Hotswap Socket with 2.25u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.25u_90deg
+Kailh keyswitch Hotswap Socket with 2.25u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.25u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.50u
+Kailh keyswitch Hotswap Socket with 2.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.50u_90deg
+Kailh keyswitch Hotswap Socket with 2.50u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.50u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.75u
+Kailh keyswitch Hotswap Socket with 2.75u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.75u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_2.75u_90deg
+Kailh keyswitch Hotswap Socket with 2.75u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 2.75u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_3.00u
+Kailh keyswitch Hotswap Socket with 3.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 3.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_3.00u_90deg
+Kailh keyswitch Hotswap Socket with 3.00u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 3.00u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_4.00u
+Kailh keyswitch Hotswap Socket with 4.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 4.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_4.50u
+Kailh keyswitch Hotswap Socket with 4.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 4.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_5.50u
+Kailh keyswitch Hotswap Socket with 5.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 5.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_6.00u
+Kailh keyswitch Hotswap Socket with 6.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_6.00u_Offset
+Kailh keyswitch Hotswap Socket with 6.00u Offset keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_6.25u
+Kailh keyswitch Hotswap Socket with 6.25u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_6.50u
+Kailh keyswitch Hotswap Socket with 6.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 6.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_7.00u
+Kailh keyswitch Hotswap Socket with 7.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout 7.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_ISOEnter
+Kailh keyswitch Hotswap Socket with ISOEnter keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_ISOEnter_90deg
+Kailh keyswitch Hotswap Socket with ISOEnter 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_ISOEnter_180deg
+Kailh keyswitch Hotswap Socket with ISOEnter 180deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter 180deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_ISOEnter_270deg
+Kailh keyswitch Hotswap Socket with ISOEnter 270deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket Cutout ISOEnter 270deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated
+Kailh keyswitch Hotswap Socket plated holes
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_1.00u
+Kailh keyswitch Hotswap Socket plated holes with 1.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.00u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_1.25u
+Kailh keyswitch Hotswap Socket plated holes with 1.25u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.25u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_1.25u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 1.25u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.25u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_1.50u
+Kailh keyswitch Hotswap Socket plated holes with 1.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.50u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_1.50u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 1.50u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.50u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_1.75u
+Kailh keyswitch Hotswap Socket plated holes with 1.75u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.75u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_1.75u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 1.75u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 1.75u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.00u
+Kailh keyswitch Hotswap Socket plated holes with 2.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.00u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.00u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.00u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.00u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.25u
+Kailh keyswitch Hotswap Socket plated holes with 2.25u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.25u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.25u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.25u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.25u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.50u
+Kailh keyswitch Hotswap Socket plated holes with 2.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.50u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.50u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.50u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.50u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.75u
+Kailh keyswitch Hotswap Socket plated holes with 2.75u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.75u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_2.75u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.75u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 2.75u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_3.00u
+Kailh keyswitch Hotswap Socket plated holes with 3.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 3.00u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_3.00u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 3.00u 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 3.00u 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_4.00u
+Kailh keyswitch Hotswap Socket plated holes with 4.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 4.00u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_4.50u
+Kailh keyswitch Hotswap Socket plated holes with 4.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 4.50u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_5.50u
+Kailh keyswitch Hotswap Socket plated holes with 5.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 5.50u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_6.00u
+Kailh keyswitch Hotswap Socket plated holes with 6.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.00u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_6.00u_Offset
+Kailh keyswitch Hotswap Socket plated holes with 6.00u Offset keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.00u Offset
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_6.25u
+Kailh keyswitch Hotswap Socket plated holes with 6.25u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.25u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_6.50u
+Kailh keyswitch Hotswap Socket plated holes with 6.50u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 6.50u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_7.00u
+Kailh keyswitch Hotswap Socket plated holes with 7.00u keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout 7.00u
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter_90deg
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter 90deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 90deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter_180deg
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter 180deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 180deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_Choc_V1_plated_ISOEnter_270deg
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter 270deg keycap
+Kailh Keyboard Choc V1 keyswitch Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 270deg
+0
+6
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX
+Kailh keyswitch Hotswap Socket
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_1.00u
+Kailh keyswitch Hotswap Socket with 1.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_1.25u
+Kailh keyswitch Hotswap Socket with 1.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_1.25u_90deg
+Kailh keyswitch Hotswap Socket with 1.25u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.25u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_1.50u
+Kailh keyswitch Hotswap Socket with 1.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_1.50u_90deg
+Kailh keyswitch Hotswap Socket with 1.50u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.50u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_1.75u
+Kailh keyswitch Hotswap Socket with 1.75u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.75u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_1.75u_90deg
+Kailh keyswitch Hotswap Socket with 1.75u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 1.75u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.00u
+Kailh keyswitch Hotswap Socket with 2.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.00u_90deg
+Kailh keyswitch Hotswap Socket with 2.00u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.00u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.25u
+Kailh keyswitch Hotswap Socket with 2.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.25u_90deg
+Kailh keyswitch Hotswap Socket with 2.25u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.25u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.50u
+Kailh keyswitch Hotswap Socket with 2.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.50u_90deg
+Kailh keyswitch Hotswap Socket with 2.50u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.50u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.75u
+Kailh keyswitch Hotswap Socket with 2.75u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.75u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_2.75u_90deg
+Kailh keyswitch Hotswap Socket with 2.75u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 2.75u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_3.00u
+Kailh keyswitch Hotswap Socket with 3.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 3.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_3.00u_90deg
+Kailh keyswitch Hotswap Socket with 3.00u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 3.00u 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_4.00u
+Kailh keyswitch Hotswap Socket with 4.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 4.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_4.50u
+Kailh keyswitch Hotswap Socket with 4.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 4.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_5.50u
+Kailh keyswitch Hotswap Socket with 5.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 5.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_6.00u
+Kailh keyswitch Hotswap Socket with 6.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_6.00u_Offset
+Kailh keyswitch Hotswap Socket with 6.00u Offset keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.00u Offset
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_6.25u
+Kailh keyswitch Hotswap Socket with 6.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.25u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_6.50u
+Kailh keyswitch Hotswap Socket with 6.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 6.50u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_7.00u
+Kailh keyswitch Hotswap Socket with 7.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout 7.00u
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_ISOEnter
+Kailh keyswitch Hotswap Socket with ISOEnter keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_ISOEnter_90deg
+Kailh keyswitch Hotswap Socket with ISOEnter 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter 90deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_ISOEnter_180deg
+Kailh keyswitch Hotswap Socket with ISOEnter 180deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter 180deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_ISOEnter_270deg
+Kailh keyswitch Hotswap Socket with ISOEnter 270deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket Cutout ISOEnter 270deg
+0
+2
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated
+Kailh keyswitch Hotswap Socket plated holes
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.00u
+Kailh keyswitch Hotswap Socket plated holes with 1.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.00u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.25u
+Kailh keyswitch Hotswap Socket plated holes with 1.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.25u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.25u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 1.25u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.25u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.50u
+Kailh keyswitch Hotswap Socket plated holes with 1.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.50u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.50u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 1.50u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.50u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.75u
+Kailh keyswitch Hotswap Socket plated holes with 1.75u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.75u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_1.75u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 1.75u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 1.75u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.00u
+Kailh keyswitch Hotswap Socket plated holes with 2.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.00u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.00u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.00u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.00u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.25u
+Kailh keyswitch Hotswap Socket plated holes with 2.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.25u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.25u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.25u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.25u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.50u
+Kailh keyswitch Hotswap Socket plated holes with 2.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.50u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.50u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.50u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.50u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.75u
+Kailh keyswitch Hotswap Socket plated holes with 2.75u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.75u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_2.75u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 2.75u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 2.75u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_3.00u
+Kailh keyswitch Hotswap Socket plated holes with 3.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 3.00u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_3.00u_90deg
+Kailh keyswitch Hotswap Socket plated holes with 3.00u 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 3.00u 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_4.00u
+Kailh keyswitch Hotswap Socket plated holes with 4.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 4.00u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_4.50u
+Kailh keyswitch Hotswap Socket plated holes with 4.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 4.50u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_5.50u
+Kailh keyswitch Hotswap Socket plated holes with 5.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 5.50u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_6.00u
+Kailh keyswitch Hotswap Socket plated holes with 6.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.00u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_6.00u_Offset
+Kailh keyswitch Hotswap Socket plated holes with 6.00u Offset keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.00u Offset
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_6.25u
+Kailh keyswitch Hotswap Socket plated holes with 6.25u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.25u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_6.50u
+Kailh keyswitch Hotswap Socket plated holes with 6.50u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 6.50u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_7.00u
+Kailh keyswitch Hotswap Socket plated holes with 7.00u keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout 7.00u
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_ISOEnter
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_ISOEnter_90deg
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter 90deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 90deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_ISOEnter_180deg
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter 180deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 180deg
+0
+8
+2
+Switch_Keyboard_Hotswap_Kailh
+SW_Hotswap_Kailh_MX_plated_ISOEnter_270deg
+Kailh keyswitch Hotswap Socket plated holes with ISOEnter 270deg keycap
+Kailh Keyboard Keyswitch Switch Hotswap Socket plated Cutout ISOEnter 270deg
+0
+8
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps
+Cherry MX / Alps keyswitch hybrid
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.00u
+Cherry MX / Alps keyswitch hybrid with 1.00u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.00u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.25u
+Cherry MX / Alps keyswitch hybrid with 1.25u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.25u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.50u
+Cherry MX / Alps keyswitch hybrid with 1.50u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.50u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_1.75u
+Cherry MX / Alps keyswitch hybrid with 1.75u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 1.75u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.00u
+Cherry MX / Alps keyswitch hybrid with 2.00u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.00u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.25u
+Cherry MX / Alps keyswitch hybrid with 2.25u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.25u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.50u
+Cherry MX / Alps keyswitch hybrid with 2.50u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.50u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_2.75u
+Cherry MX / Alps keyswitch hybrid with 2.75u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 2.75u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_3.00u
+Cherry MX / Alps keyswitch hybrid with 3.00u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 3.00u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_4.00u
+Cherry MX / Alps keyswitch hybrid with 4.00u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 4.00u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_4.50u
+Cherry MX / Alps keyswitch hybrid with 4.50u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 4.50u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_5.50u
+Cherry MX / Alps keyswitch hybrid with 5.50u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 5.50u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_6.00u
+Cherry MX / Alps keyswitch hybrid with 6.00u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 6.00u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_6.25u
+Cherry MX / Alps keyswitch hybrid with 6.25u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 6.25u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_6.50u
+Cherry MX / Alps keyswitch hybrid with 6.50u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 6.50u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_7.00u
+Cherry MX / Alps keyswitch hybrid with 7.00u keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB 7.00u
+0
+6
+2
+Switch_Keyboard_Hybrid
+SW_Hybrid_Cherry_MX_Alps_ISOEnter
+Cherry MX / Alps keyswitch hybrid with ISOEnter keycap
+Cherry MX Alps Matias Hybrid Keyboard Keyswitch Switch PCB ISOEnter
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini
+Kailh Choc Mini CPG1232 low profile keyswitch
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_1.00u
+Kailh Choc Mini CPG1232 low profile keyswitch with 1.00u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 1.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_1.25u
+Kailh Choc Mini CPG1232 low profile keyswitch with 1.25u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 1.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_1.25u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 1.25u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 1.25u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_1.50u
+Kailh Choc Mini CPG1232 low profile keyswitch with 1.50u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 1.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_1.50u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 1.50u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 1.50u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_1.75u
+Kailh Choc Mini CPG1232 low profile keyswitch with 1.75u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 1.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_1.75u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 1.75u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 1.75u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.00u
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.00u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.00u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.00u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.00u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.25u
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.25u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.25u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.25u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.25u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.50u
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.50u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.50u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.50u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.50u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.75u
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.75u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_2.75u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 2.75u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 2.75u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_3.00u
+Kailh Choc Mini CPG1232 low profile keyswitch with 3.00u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 3.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_3.00u_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with 3.00u 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 3.00u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_4.00u
+Kailh Choc Mini CPG1232 low profile keyswitch with 4.00u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 4.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_4.50u
+Kailh Choc Mini CPG1232 low profile keyswitch with 4.50u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 4.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_5.50u
+Kailh Choc Mini CPG1232 low profile keyswitch with 5.50u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 5.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_6.00u
+Kailh Choc Mini CPG1232 low profile keyswitch with 6.00u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 6.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_6.00u_Offset
+Kailh Choc Mini CPG1232 low profile keyswitch with 6.00u Offset keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 6.00u Offset
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_6.25u
+Kailh Choc Mini CPG1232 low profile keyswitch with 6.25u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 6.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_6.50u
+Kailh Choc Mini CPG1232 low profile keyswitch with 6.50u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 6.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_7.00u
+Kailh Choc Mini CPG1232 low profile keyswitch with 7.00u keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout 7.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_ISOEnter
+Kailh Choc Mini CPG1232 low profile keyswitch with ISOEnter keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout ISOEnter
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_ISOEnter_90deg
+Kailh Choc Mini CPG1232 low profile keyswitch with ISOEnter 90deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout ISOEnter 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_ISOEnter_180deg
+Kailh Choc Mini CPG1232 low profile keyswitch with ISOEnter 180deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout ISOEnter 180deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_Mini_ISOEnter_270deg
+Kailh Choc Mini CPG1232 low profile keyswitch with ISOEnter 270deg keycap
+Kailh Choc Mini CPG1232 Keyboard Low Profile Keyswitch Switch Cutout ISOEnter 270deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1
+Kailh Choc keyswitch CPG1350 V1
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_1.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 1.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 1.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_1.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 1.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 1.25u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_1.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 1.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 1.25u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_1.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 1.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 1.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_1.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 1.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 1.50u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_1.75u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 1.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 1.75u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_1.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 1.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 1.75u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.00u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.25u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.25u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.50u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.75u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.75u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_2.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 2.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 2.75u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_3.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 3.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 3.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_3.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 3.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 3.00u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_4.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 4.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 4.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_4.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 4.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 4.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_5.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 5.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 5.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_6.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 6.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 6.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_6.00u_Offset
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 6.00u Offset keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 6.00u Offset
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_6.25u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 6.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 6.25u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_6.50u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 6.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 6.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_7.00u
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with 7.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout 7.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_ISOEnter
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with ISOEnter keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout ISOEnter
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_ISOEnter_90deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with ISOEnter 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout ISOEnter 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_ISOEnter_180deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with ISOEnter 180deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout ISOEnter 180deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1V2_ISOEnter_270deg
+Kailh Choc keyswitch CPG1350 V1 CPG1353 V2 with ISOEnter 270deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 CPG1353 V2 Cutout ISOEnter 270deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_1.00u
+Kailh Choc keyswitch CPG1350 V1 with 1.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 1.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_1.25u
+Kailh Choc keyswitch CPG1350 V1 with 1.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 1.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_1.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 1.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 1.25u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_1.50u
+Kailh Choc keyswitch CPG1350 V1 with 1.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 1.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_1.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 1.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 1.50u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_1.75u
+Kailh Choc keyswitch CPG1350 V1 with 1.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 1.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_1.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 1.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 1.75u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.00u
+Kailh Choc keyswitch CPG1350 V1 with 2.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 2.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.00u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.25u
+Kailh Choc keyswitch CPG1350 V1 with 2.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.25u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 2.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.25u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.50u
+Kailh Choc keyswitch CPG1350 V1 with 2.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.50u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 2.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.50u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.75u
+Kailh Choc keyswitch CPG1350 V1 with 2.75u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_2.75u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 2.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 2.75u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_3.00u
+Kailh Choc keyswitch CPG1350 V1 with 3.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 3.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_3.00u_90deg
+Kailh Choc keyswitch CPG1350 V1 with 3.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 3.00u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_4.00u
+Kailh Choc keyswitch CPG1350 V1 with 4.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 4.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_4.50u
+Kailh Choc keyswitch CPG1350 V1 with 4.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 4.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_5.50u
+Kailh Choc keyswitch CPG1350 V1 with 5.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 5.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_6.00u
+Kailh Choc keyswitch CPG1350 V1 with 6.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 6.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_6.00u_Offset
+Kailh Choc keyswitch CPG1350 V1 with 6.00u Offset keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 6.00u Offset
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_6.25u
+Kailh Choc keyswitch CPG1350 V1 with 6.25u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 6.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_6.50u
+Kailh Choc keyswitch CPG1350 V1 with 6.50u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 6.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_7.00u
+Kailh Choc keyswitch CPG1350 V1 with 7.00u keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout 7.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_ISOEnter
+Kailh Choc keyswitch CPG1350 V1 with ISOEnter keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout ISOEnter
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_ISOEnter_90deg
+Kailh Choc keyswitch CPG1350 V1 with ISOEnter 90deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout ISOEnter 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_ISOEnter_180deg
+Kailh Choc keyswitch CPG1350 V1 with ISOEnter 180deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout ISOEnter 180deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V1_ISOEnter_270deg
+Kailh Choc keyswitch CPG1350 V1 with ISOEnter 270deg keycap
+Kailh Choc Keyswitch Switch CPG1350 V1 Cutout ISOEnter 270deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2
+Kailh Choc keyswitch CPG1353 V2
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_1.00u
+Kailh Choc keyswitch CPG1353 V2 with 1.00u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 1.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_1.25u
+Kailh Choc keyswitch CPG1353 V2 with 1.25u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 1.25u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_1.25u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 1.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 1.25u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_1.50u
+Kailh Choc keyswitch CPG1353 V2 with 1.50u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 1.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_1.50u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 1.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 1.50u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_1.75u
+Kailh Choc keyswitch CPG1353 V2 with 1.75u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 1.75u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_1.75u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 1.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 1.75u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.00u
+Kailh Choc keyswitch CPG1353 V2 with 2.00u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.00u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 2.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.00u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.25u
+Kailh Choc keyswitch CPG1353 V2 with 2.25u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.25u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.25u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 2.25u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.25u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.50u
+Kailh Choc keyswitch CPG1353 V2 with 2.50u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.50u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 2.50u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.50u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.75u
+Kailh Choc keyswitch CPG1353 V2 with 2.75u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.75u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_2.75u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 2.75u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 2.75u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_3.00u
+Kailh Choc keyswitch CPG1353 V2 with 3.00u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 3.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_3.00u_90deg
+Kailh Choc keyswitch CPG1353 V2 with 3.00u 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 3.00u 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_4.00u
+Kailh Choc keyswitch CPG1353 V2 with 4.00u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 4.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_4.50u
+Kailh Choc keyswitch CPG1353 V2 with 4.50u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 4.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_5.50u
+Kailh Choc keyswitch CPG1353 V2 with 5.50u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 5.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_6.00u
+Kailh Choc keyswitch CPG1353 V2 with 6.00u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 6.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_6.00u_Offset
+Kailh Choc keyswitch CPG1353 V2 with 6.00u Offset keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 6.00u Offset
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_6.25u
+Kailh Choc keyswitch CPG1353 V2 with 6.25u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 6.25u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_6.50u
+Kailh Choc keyswitch CPG1353 V2 with 6.50u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 6.50u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_7.00u
+Kailh Choc keyswitch CPG1353 V2 with 7.00u keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout 7.00u
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_ISOEnter
+Kailh Choc keyswitch CPG1353 V2 with ISOEnter keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout ISOEnter
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_ISOEnter_90deg
+Kailh Choc keyswitch CPG1353 V2 with ISOEnter 90deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout ISOEnter 90deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_ISOEnter_180deg
+Kailh Choc keyswitch CPG1353 V2 with ISOEnter 180deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout ISOEnter 180deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_Choc_V2_ISOEnter_270deg
+Kailh Choc keyswitch CPG1353 V2 with ISOEnter 270deg keycap
+Kailh Choc Keyswitch Switch CPG1353 V2 Cutout ISOEnter 270deg
+0
+6
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH
+Kailh KH CPG1280 keyswitch
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_1.00u
+Kailh KH CPG1280 keyswitch with 1.00u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 1.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_1.25u
+Kailh KH CPG1280 keyswitch with 1.25u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 1.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_1.25u_90deg
+Kailh KH CPG1280 keyswitch with 1.25u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 1.25u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_1.50u
+Kailh KH CPG1280 keyswitch with 1.50u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 1.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_1.50u_90deg
+Kailh KH CPG1280 keyswitch with 1.50u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 1.50u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_1.75u
+Kailh KH CPG1280 keyswitch with 1.75u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 1.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_1.75u_90deg
+Kailh KH CPG1280 keyswitch with 1.75u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 1.75u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.00u
+Kailh KH CPG1280 keyswitch with 2.00u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.00u_90deg
+Kailh KH CPG1280 keyswitch with 2.00u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.00u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.25u
+Kailh KH CPG1280 keyswitch with 2.25u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.25u_90deg
+Kailh KH CPG1280 keyswitch with 2.25u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.25u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.50u
+Kailh KH CPG1280 keyswitch with 2.50u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.50u_90deg
+Kailh KH CPG1280 keyswitch with 2.50u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.50u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.75u
+Kailh KH CPG1280 keyswitch with 2.75u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_2.75u_90deg
+Kailh KH CPG1280 keyswitch with 2.75u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 2.75u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_3.00u
+Kailh KH CPG1280 keyswitch with 3.00u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 3.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_3.00u_90deg
+Kailh KH CPG1280 keyswitch with 3.00u 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 3.00u 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_4.00u
+Kailh KH CPG1280 keyswitch with 4.00u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 4.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_4.50u
+Kailh KH CPG1280 keyswitch with 4.50u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 4.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_5.50u
+Kailh KH CPG1280 keyswitch with 5.50u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 5.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_6.00u
+Kailh KH CPG1280 keyswitch with 6.00u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 6.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_6.00u_Offset
+Kailh KH CPG1280 keyswitch with 6.00u Offset keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 6.00u Offset
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_6.25u
+Kailh KH CPG1280 keyswitch with 6.25u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 6.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_6.50u
+Kailh KH CPG1280 keyswitch with 6.50u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 6.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_7.00u
+Kailh KH CPG1280 keyswitch with 7.00u keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout 7.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_ISOEnter
+Kailh KH CPG1280 keyswitch with ISOEnter keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout ISOEnter
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_ISOEnter_90deg
+Kailh KH CPG1280 keyswitch with ISOEnter 90deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout ISOEnter 90deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_ISOEnter_180deg
+Kailh KH CPG1280 keyswitch with ISOEnter 180deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout ISOEnter 180deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_KH_ISOEnter_270deg
+Kailh KH CPG1280 keyswitch with ISOEnter 270deg keycap
+Kailh KH CPG1280 Keyboard Keyswitch Switch Cutout ISOEnter 270deg
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB
+Kailh KH CPG1425 low profile notebook keyswitch
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_1.00u
+Kailh KH CPG1425 low profile notebook keyswitch with 1.00u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 1.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_1.25u
+Kailh KH CPG1425 low profile notebook keyswitch with 1.25u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 1.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_1.50u
+Kailh KH CPG1425 low profile notebook keyswitch with 1.50u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 1.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_1.75u
+Kailh KH CPG1425 low profile notebook keyswitch with 1.75u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 1.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_2.00u
+Kailh KH CPG1425 low profile notebook keyswitch with 2.00u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 2.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_2.25u
+Kailh KH CPG1425 low profile notebook keyswitch with 2.25u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 2.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_2.50u
+Kailh KH CPG1425 low profile notebook keyswitch with 2.50u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 2.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_2.75u
+Kailh KH CPG1425 low profile notebook keyswitch with 2.75u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 2.75u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_3.00u
+Kailh KH CPG1425 low profile notebook keyswitch with 3.00u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 3.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_4.00u
+Kailh KH CPG1425 low profile notebook keyswitch with 4.00u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 4.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_4.50u
+Kailh KH CPG1425 low profile notebook keyswitch with 4.50u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 4.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_5.50u
+Kailh KH CPG1425 low profile notebook keyswitch with 5.50u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 5.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_6.00u
+Kailh KH CPG1425 low profile notebook keyswitch with 6.00u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 6.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_6.25u
+Kailh KH CPG1425 low profile notebook keyswitch with 6.25u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 6.25u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_6.50u
+Kailh KH CPG1425 low profile notebook keyswitch with 6.50u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 6.50u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_7.00u
+Kailh KH CPG1425 low profile notebook keyswitch with 7.00u keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch 7.00u
+0
+4
+2
+Switch_Keyboard_Kalih
+SW_Kailh_NB_ISOEnter
+Kailh KH CPG1425 low profile notebook keyswitch with ISOEnter keycap
+Kailh KH CPG1425 Keyboard Low Profile Notebook Keyswitch Switch ISOEnter
+0
+4
+2
+yeti
+pushi-c
+
+
+0
+29
+29

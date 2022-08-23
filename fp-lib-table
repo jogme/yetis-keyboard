@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "yeti")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/yeti.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/Keebio-Parts.pretty")(options "")(descr ""))
+)
