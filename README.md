@@ -1,4 +1,4 @@
-# Yeti 34 key split keyboard
+# YetiS(plit) 34 key split keyboard
 
 ## Who likes wrist pain anyway?
 
