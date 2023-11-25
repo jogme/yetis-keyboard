@@ -2,4 +2,7 @@ yetis-backups
 yetis_bottom-backups
 yetis_top-backups
 pcb/gerber
+pcb/gerber/*
 case/3dprint
+case/top_plate/gerber
+case/bottom_plate/gerber
