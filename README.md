@@ -1,12 +1,10 @@
-# YetiS(plit) 34 key split keyboard
+# YetiS 34 key split keyboard
 
 ## Who likes wrist pain anyway?
 
-![](pictures/wood2.png)
+![](pictures/ver1_1.jpg)
 
-![](pictures/wood1.png)
-
-![](pictures/wood3.png)
+Available at https://www.jogmekeebs.com/
 
 ## Concepts
 The main goals for this keyboard were:
@@ -38,6 +36,15 @@ Real life printable layout can be found in the main directory of this
 repository named `layout.pdf`. It is suggested to first try the layout
 and positioning of the keyboard to see if it's suitable for your hands before
 doing any shopping. (The collectors are always welcome:)
+
+### Render pictures of the pcb case version
+
+![](pictures/wood2.png)
+
+![](pictures/wood1.png)
+
+![](pictures/wood3.png)
+
 
 ### Pictures of the alpha version
 
